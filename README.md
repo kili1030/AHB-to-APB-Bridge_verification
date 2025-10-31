@@ -2,4 +2,5 @@
 This repository contains the resources for verification of AHB to APB bridge design. This project was completed on March 2025
 
 **Block Diagram :**
-![AHB2APB Bridge (1)](https://github.com/user-attachments/assets/0eb68569-ae2a-4d7e-bba6-cbf73934065d)
+![bridge](https://github.com/user-attachments/assets/362bc308-567d-492f-9675-4237f14711ea)
+
